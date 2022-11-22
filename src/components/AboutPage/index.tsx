@@ -5,7 +5,6 @@ import { Avatar, Box } from '@mui/material';
 import Typography from '@mui/material/Typography';
 import Image from 'next/image';
 import Link from 'next/link';
-import React from 'react';
 import ccby from '../../../public/assets/ccby.png';
 import hotpot from '../../../public/assets/hotpot.jpeg';
 import jcloze from '../../../public/assets/jcloze.jpeg';
