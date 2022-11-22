@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Scrum Simulator
 
-## Getting Started
+Scrum simulator é um REA para ajudar no aprendizado da metodologia ágil Scrum.
 
-First, run the development server:
+Disponível em: [https://scrumsimulator.netlify.app](https://scrumsimulator.netlify.app)
+
+## Iniciando
+
+Primeiro inicie no seu prompt de comando:
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para visualizar a aplicação.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Colaboração
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Este projeto foi desenvolvido em 2022 para disciplina de 'Informática da Educação' da Professora Salete Farias, do curso de Sistemas de Informação do Instituto Federal do Maranhão.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Equipe: Alessandra Lima, Andressa Pereira, Jhoan Victor, Luis Gabriel, Mayla Nascimento.
 
-## Learn More
+## Licença
 
-To learn more about Next.js, take a look at the following resources:
+![Creative Commons](https://licensebuttons.net/l/by/4.0/88x31.png)
+Esta obra está licenciado com uma Licença
+[Creative Commons Atribuição 4.0 Internacional.](http://creativecommons.org/licenses/by/4.0/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[MIT](https://choosealicense.com/licenses/mit/)
