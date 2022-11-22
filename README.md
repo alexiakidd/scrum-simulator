@@ -2,7 +2,7 @@
 
 Scrum simulator é um REA para ajudar no aprendizado da metodologia ágil Scrum.
 
-Disponível em: [https://scrumsimulator.netlify.app](https://scrumsimulator.netlify.app)
+Disponível em: [https://scrum-simulator.vercel.app/](https://scrum-simulator.vercel.app/)
 
 ## Iniciando
 
