@@ -1,6 +1,5 @@
 import { Box, Button, Grid, Typography } from '@mui/material';
 import Image from 'next/image';
-import React from 'react';
 import img from '../../../public/assets/quizImg.svg';
 import Play from '../Play';
 import { HomePageProps } from './types';

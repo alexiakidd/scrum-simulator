@@ -21,7 +21,7 @@ export default function Play() {
 					<iframe
 						width="800px"
 						height="800px"
-						src="sentenca_jcloze.htm"></iframe>
+						src="resource/sentenca_jcloze.htm"></iframe>
 				</Box>
 			),
 		},
@@ -38,7 +38,10 @@ export default function Play() {
 						alignItems: 'center',
 					}}>
 					<Typography variant="h3">JQuiz - Scrum</Typography>
-					<iframe width="800px" height="800px" src="quiz_scrum.htm"></iframe>
+					<iframe
+						width="800px"
+						height="800px"
+						src="resource/quiz_scrum.htm"></iframe>
 				</Box>
 			),
 		},
