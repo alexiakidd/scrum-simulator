@@ -5,7 +5,7 @@ import AboutPage from '../../src/components/AboutPage';
 import HomePage from '../../src/components/HomePage';
 import Play from '../../src/components/Play';
 import ScrumPage from '../../src/components/ScrumPage';
-import { PageItem } from './types';
+import { PageItem } from '../../types/types';
 
 export default function Home() {
 	const [page, setPage] = useState<PageItem>({

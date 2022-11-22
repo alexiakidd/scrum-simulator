@@ -1,5 +1,5 @@
 import { Dispatch, SetStateAction } from 'react';
-import { PageItem } from '../../../pages/Home/types';
+import { PageItem } from '../../../types/types';
 
 export type HomePageProps = {
 	onPageChange: Dispatch<SetStateAction<PageItem>>;
