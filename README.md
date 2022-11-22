@@ -16,6 +16,10 @@ yarn dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para visualizar a aplicação.
 
+Foi utilizado a ferramenta HotPotates para criação das atividades.
+
+Link para download: [HotPotatoes](https://hotpot.uvic.ca/)
+
 ## Colaboração
 
 Este projeto foi desenvolvido em 2022 para disciplina de 'Informática da Educação' da Professora Salete Farias, do curso de Sistemas de Informação do Instituto Federal do Maranhão.
