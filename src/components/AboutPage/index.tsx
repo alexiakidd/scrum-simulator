@@ -8,7 +8,9 @@ import Link from 'next/link';
 import ccby from '../../../public/assets/ccby.png';
 import hotpot from '../../../public/assets/hotpot.jpeg';
 import jcloze from '../../../public/assets/jcloze.jpeg';
-import jquiz from '../../../public/assets/jquiz.jpeg';
+
+import jquiz from '../../../public/assets/jquiz1.jpeg';
+
 export default function AboutPage() {
 	const team = [
 		{ name: 'Alessandra Lima', icon: <Face2Icon /> },
