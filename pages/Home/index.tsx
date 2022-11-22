@@ -3,7 +3,6 @@ import { AppBar, Box, Button, Container, Paper, Toolbar } from '@mui/material';
 import { useEffect, useState } from 'react';
 import AboutPage from '../../src/components/AboutPage';
 import HomePage from '../../src/components/HomePage';
-import Play from '../../src/components/Play';
 import ScrumPage from '../../src/components/ScrumPage';
 import { PageItem } from '../../types/types';
 
@@ -20,7 +19,6 @@ export default function Home() {
 	}, []);
 
 	const pages: PageItem[] = [
-		{ title: 'Jogar', pageComponent: <Play /> },
 		{ title: '+ Scrum', pageComponent: <ScrumPage /> },
 		{ title: 'Sobre', pageComponent: <AboutPage /> },
 	];
